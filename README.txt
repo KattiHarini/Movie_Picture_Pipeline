@@ -25,7 +25,7 @@ Evidence files:
 04 - Backend CI successful run
 05 - Frontend CD successful run
 06 - Backend CD successful run
-07 - EKS pods and LoadBalancer services
+07 - Secrets-&-variables
 08 - Frontend movie list
 09 - Backend /movies JSON response
 
