@@ -1,7 +1,7 @@
 Movie Picture Pipeline - Submission Evidence
 
 Public GitHub Repository:
-https://github.com/rthokala2/movie-picture-pipeline
+https://github.com/KattiHarini/Movie_Picture_Pipeline
 
 GitHub Actions successful runs:
 Frontend CI: https://github.com/rthokala2/movie-picture-pipeline/actions/runs/35562108202
