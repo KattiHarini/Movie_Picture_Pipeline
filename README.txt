@@ -19,14 +19,16 @@ Backend API:
 http://a4eb9971ac7a64521ad3469a614269e3-1429398357.us-east-1.elb.amazonaws.com/movies
 
 Evidence files:
-01 - GitHub
+01 - GitHub Codes
 02 - GitHub workflows list
 03 - Frontend CI successful run
 04 - Backend CI successful run
 05 - Frontend CD successful run
 06 - Backend CD successful run
-07 - Secrets-&-variables
-08 - Frontend movie list
-09 - Backend /movies JSON response
+07 - eks-node-ready
+08 - eks-pods-and-services
+09 - Secrets-&-variables
+10 - Frontend movie list
+11 - Backend /movies JSON response
 
 AWS resources were torn down after verification, as required by the Udacity project instructions.
